@@ -55,31 +55,48 @@ This project leverages the **2022 Economic Freedom Index** to visualize global e
 ---
 
 ## 🗂️ Folder Structure
-📦 Project Root
-├── 1. Assignments/
-├── 2. Ideation Phase/
-│ ├── Brainstorming.pdf
-│ ├── Empathy Map.pdf
-│ └── Problem Statement.pdf
-├── 3. Requirement Analysis/
-│ ├── Customer Journey Map.pdf
-│ ├── Data Flow Diagram.pdf
-│ └── Solution Requirement.pdf
-├── 4. Project Design Phase/
-│ ├── Problem-Solution Fit.pdf
-│ ├── Proposed Solution.pdf
-│ └── Solution Architecture.pdf
-├── 5. Project Planning Phase/
-├── 6. Executable Files/
-│ ├── index_of_economic_freedom.csv
-│ ├── Final Dashboard.twbx
-│ └── Screenshots/
-├── 7. Functional & Performance Testing/
-│ └── Performance Summary.pdf
-└── 8. Documentation & Demo/
-├── Final Report.pdf
-└── Video Demo Link.txt
+1. Assignments/
+   ├─ Assignment_1.pdf
+   ├─ Assignment_2.pdf
+   └─ Team_Member_Folder/
 
+2. Ideation_Phase/
+   ├─ Brainstorming.pdf
+   ├─ Empathy_Map.pdf
+   └─ Problem_Statement.pdf
+
+3. Requirement_Analysis/
+   ├─ Customer_Journey_Map.pdf
+   ├─ Data_Flow_Diagram.pdf
+   ├─ Functional_Requirements.pdf
+   ├─ Non_Functional_Requirements.pdf
+   └─ Technology_Stack.pdf
+
+4. Project_Design_Phase/
+   ├─ Problem_Solution_Fit.pdf
+   ├─ Proposed_Solution.pdf
+   ├─ Solution_Architecture.pdf
+   └─ Architecture_Diagram.png
+
+5. Project_Planning_Phase/
+   └─ Project_Planning_Template.pdf
+
+6. Project_Execution/
+   ├─ Dataset/
+   │   └─ index_of_economic_freedom.csv
+   ├─ Tableau_Files/
+   │   └─ Final_Dashboard.twbx
+   ├─ Screenshots/
+   │   ├─ Dashboard_Screenshots/
+   │   └─ Report_Screenshots/
+   └─ Tableau_Links.txt
+
+7. Functional_and_Performance_Testing/
+   └─ Performance_Testing_Report.pdf
+
+8. Documentation_and_Demo/
+   ├─ Final_Report.pdf
+   └─ Video_Demo_Link.txt
 
 ---
 
