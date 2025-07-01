@@ -58,7 +58,7 @@ This project leverages the **2022 Economic Freedom Index** to visualize global e
 1. Assignments/
    ├─ Assignment_1.pdf
    ├─ Assignment_2.pdf
-   └─ Team_Member_Folder/
+   ├─ Assignment_3.pdf
 
 2. Ideation_Phase/
    ├─ Brainstorming.pdf
