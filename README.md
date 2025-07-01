@@ -121,7 +121,7 @@ This project leverages the **2022 Economic Freedom Index** to visualize global e
 |-------------------|----------------------------------------------------------------------|
 | 🔹 **Dashboard**   | [View Tableau Dashboard](https://public.tableau.com/views/Book1_17512001266010/Dashboard1) |
 | 🔹 **Story**       | *Coming Soon or include if available*                                |
-| 🎥 **Video Demo**  | *Insert your YouTube/Drive link here*                                |
+| 🎥 **Video Demo**  | [View on google drive](https://drive.google.com/file/d/1EqzYo-E9rhjw_OKaFREJ4OHfUvYh8CY2/view?usp=sharing)                                |
 | 📊 **Dataset**     | [Kaggle Dataset Source](https://www.heritage.org/index/)             |
 
 ---
