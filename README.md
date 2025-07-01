@@ -1,4 +1,4 @@
-# Measuring-The-Pulse-Of-Prosperity-An-Index-Of-Economic-Freedom-Analysis
+
 # 📊 Measuring the Pulse of Prosperity: An Index of Economic Freedom Analysis
 
 Welcome to the official repository for the **"Measuring the Pulse of Prosperity"** project — a powerful data visualization initiative designed to decode the patterns behind **global economic freedom** using **Tableau Dashboards**.
